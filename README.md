@@ -64,9 +64,8 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lwaheedcse2405f6-coder&show_icons=true&theme=radical"/>
+![GitHub Stats](https://github-readme-stats-github-readme-stats.vercel.app/api?username=lwaheedcse2405f6-coder&show_icons=true)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwaheedcse2405f6-coder&layout=compact&theme=radical"/>
 
 </p>
 
