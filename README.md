@@ -60,14 +60,6 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats-github-readme-stats.vercel.app/api?username=lwaheedcse2405f6-coder&show_icons=true)
-
-
-</p>
 
 ---
 
